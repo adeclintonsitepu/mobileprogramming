@@ -1,2 +1,2 @@
-# mobileprogramming
-Simple project of my teaching class
+# Android Studio Project
+Simple project of my teaching class. We use XML and Java language.
